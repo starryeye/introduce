@@ -17,7 +17,7 @@
 - Spring REST Docs
   
 ## 개인 링크
-- 깃헙
+- (깃헙)[https://github.com/starryeye]
   - 거의 매일 커밋
 - 기술 블로그
   - 포스팅 약 190 건
