@@ -17,9 +17,9 @@
 - Spring REST Docs
   
 ## 개인 링크
-- (깃헙)[https://github.com/starryeye]
+- [깃헙](https://github.com/starryeye)
   - 거의 매일 커밋
-- 기술 블로그
+- [기술 블로그](https://starryeye.tistory.com)
   - 포스팅 약 190 건
   
 ## 깃헙 리포지토리 소개 (100 커밋 이상이거나 소개드리고 싶은 repo 위주)
@@ -27,13 +27,13 @@
 소개 드린 것 외에도 다양한 프로젝트가 존재합니다.  
   
 - 이론 및 Best practice study
-  - leetcode
+  - [leetcode](https://github.com/starryeye/leetcode)
     - argorithm, sql problem
-  - java
+  - [java](https://github.com/starryeye/java)
     - Java 전반, Java io, nio, aio, reactor, proactor 등
-  - SpringStudyProject
+  - [SpringStudyProject](https://github.com/starryeye/SpringStudyProject)
     - servlet stack 기반의 Spring, JPA 전반
-  - spring-webflux (공부 중)
+  - [spring-webflux (공부 중)](spring-webflux)
     - reactive stack 기반의 다양한 기술들 
     - Netty, reactor, Spring Webflux, Data, Cloud 등
   - redis
