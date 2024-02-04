@@ -33,43 +33,43 @@
     - Java 전반, Java io, nio, aio, reactor, proactor 등
   - [SpringStudyProject](https://github.com/starryeye/SpringStudyProject)
     - servlet stack 기반의 Spring, JPA 전반
-  - [spring-webflux (공부 중)](spring-webflux)
+  - [spring-webflux (공부 중)](https://github.com/starryeye/spring-webflux)
     - reactive stack 기반의 다양한 기술들 
     - Netty, reactor, Spring Webflux, Data, Cloud 등
-  - redis
+  - [redis](https://github.com/starryeye/redis)
     - redis 전반
-  - kafka
+  - [kafka](https://github.com/starryeye/kafka)
     - kafka 전반
-  - spring-guide
+  - [spring-guide](https://github.com/starryeye/spring-guide)
     - spring.io 에 소개된 간단한 가이드 따라해보기
-  - CppStudy
+  - [CppStudy](https://github.com/starryeye/CppStudy)
     - mordern c++ 
   
 - 실습 및 프로젝트 기반 study
-  - architecture
+  - [architecture](https://github.com/starryeye/architecture)
     - layered, hexagonal architecture 공부
       - layered/splitpay : 1/N 정산 서비스, 빡센 test code, data jpa
       - hexagonal/pay : 계좌 서비스, archunit
-  - hellogram (진행 중)
+  - [hellogram (진행 중)](https://github.com/starryeye/hellogram)
     - Reactive stack 으로 구현하는 모의 instagram, 각 서비스간 연동하여 MSA
       - article : clean architecture(multimodule), webflux, data mongodb reactive, cloud circuitbreaker, cloud stream with kafka, testcontainer, reactor test
       - image : webflux, data redis reactive
       - user : cloud stream with kafka
       - gateway : cloud gateway
-  - test-code
+  - [test-code](https://github.com/starryeye/test-code)
     - test code 의 모든 것
       - practice/cafekiosk : 키오스크 서비스, 빡센 test code, TDD, BDD JUnit5, Mockito, AssertJ, Spring REST Docs
       - theory : todo..
-  - sns-mysql
+  - [sns-mysql](https://github.com/starryeye/sns-mysql)
     - jdbcTemplate, JPA 로 mysql 연동 
     - RDB 와 연결된 application 에서 고민할 다양한 토픽을 다룸
     - follow, member, post 도메인을 monolithic 서버로 구현
-  - first-come-first-served
+  - [first-come-first-served](https://github.com/starryeye/first-come-first-served)
     - 쿠폰 선착순 서비스 구현
       - 선착순 서비스에서 고민해야할 주제를 다룸
       - JPA, redis, kafka
-  - concurrency
+  - [concurrency](https://github.com/starryeye/concurrency)
     - 간단한 재고 서비스를 통해 동시성 문제를 해결하는 다양한 방법을 다룸
       - JPA, redis
-  - msa-ddd
+  - [msa-ddd](https://github.com/starryeye/msa-ddd)
     - 주문, 선물 서비스를 구현하며 msa, ddd 에 대해 다룸
