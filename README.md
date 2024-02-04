@@ -1,6 +1,6 @@
 # introduce
   
-## 공부하여 습득한 기술
+## 공부하여 습득한 기술
 - Java 17
 - Spring Framework Core
 - Spring Boot
