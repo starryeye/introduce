@@ -54,7 +54,7 @@
     - Reactive stack 으로 구현하는 모의 instagram, 각 서비스간 연동하여 MSA
       - article : clean architecture(multimodule), webflux, data mongodb reactive, cloud circuitbreaker, cloud stream with kafka, testcontainer, reactor test
       - image : webflux, data redis reactive
-      - user : cloud stream with kafka, r2dbc with mysql
+      - user : cloud stream with kafka, data r2dbc with mysql
       - gateway : cloud gateway
   - [test-code](https://github.com/starryeye/test-code)
     - test code 의 모든 것
