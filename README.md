@@ -60,8 +60,8 @@
     - test code 의 모든 것
       - practice/cafekiosk : 키오스크 서비스, 빡센 test code, TDD, BDD JUnit5, Mockito, AssertJ, Spring REST Docs
       - theory : todo..
-  - [hellopay(진행중)]()
-    - 모의 간편 결제 시스템
+  - [hellopay(진행중)](https://github.com/starryeye/hellopay)
+    - 모의 간편 결제 서비스
       - member
   - [sns-mysql](https://github.com/starryeye/sns-mysql)
     - jdbcTemplate, JPA 로 mysql 연동 
