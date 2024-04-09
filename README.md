@@ -50,7 +50,7 @@
     - layered, hexagonal architecture 공부
       - layered/splitpay : 1/N 정산 서비스, 빡센 test code, data jpa
       - hexagonal/pay : 계좌 서비스, archunit
-  - [hellogram (진행 중)](https://github.com/starryeye/hellogram)
+  - [hellogram](https://github.com/starryeye/hellogram)
     - Reactive stack 으로 구현하는 모의 instagram, 각 서비스간 연동하여 MSA
       - article : clean architecture(multimodule), webflux, data mongodb reactive, cloud circuitbreaker, cloud stream with kafka, testcontainer, reactor test
       - image : webflux, data redis reactive
@@ -60,6 +60,9 @@
     - test code 의 모든 것
       - practice/cafekiosk : 키오스크 서비스, 빡센 test code, TDD, BDD JUnit5, Mockito, AssertJ, Spring REST Docs
       - theory : todo..
+  - [hellopay(진행중)]()
+    - 모의 간편 결제 시스템
+      - member
   - [sns-mysql](https://github.com/starryeye/sns-mysql)
     - jdbcTemplate, JPA 로 mysql 연동 
     - RDB 와 연결된 application 에서 고민할 다양한 토픽을 다룸
