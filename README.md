@@ -36,10 +36,14 @@
   - [spring-webflux (공부 중)](https://github.com/starryeye/spring-webflux)
     - reactive stack 기반의 다양한 기술들 
     - Netty, reactor, Spring Webflux, Data, Cloud 등
+  - [practical-reactor-mirror (진행 중)](https://github.com/starryeye/practical-reactor-mirror)
+    - project reactor, Mono & Flux 연산자 연습문제 풀기
   - [redis](https://github.com/starryeye/redis)
     - redis 전반
   - [kafka](https://github.com/starryeye/kafka)
     - kafka 전반
+  - [resilience4j](https://github.com/starryeye/resilience4j)
+    - spring with retry, circuit breaker 기술
   - [spring-guide](https://github.com/starryeye/spring-guide)
     - spring.io 에 소개된 간단한 가이드 따라해보기
   - [CppStudy](https://github.com/starryeye/CppStudy)
@@ -60,9 +64,9 @@
     - test code 의 모든 것
       - practice/cafekiosk : 키오스크 서비스, 빡센 test code, TDD, BDD JUnit5, Mockito, AssertJ, Spring REST Docs
       - theory : todo..
-  - [hellopay(진행중)](https://github.com/starryeye/hellopay)
+  - [hellopay(진행 중)](https://github.com/starryeye/hellopay)
     - 모의 간편 결제 서비스
-      - member
+      - hexagonal architecture, webmvc, data jpa 등
   - [sns-mysql](https://github.com/starryeye/sns-mysql)
     - jdbcTemplate, JPA 로 mysql 연동 
     - RDB 와 연결된 application 에서 고민할 다양한 토픽을 다룸
