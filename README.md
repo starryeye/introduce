@@ -33,10 +33,10 @@
     - Java 8, Java io, nio, aio, reactor, proactor 등
   - [SpringStudyProject](https://github.com/starryeye/SpringStudyProject)
     - servlet stack 기반의 Spring, JPA 다루기
-  - [spring-webflux (공부 중)](https://github.com/starryeye/spring-webflux)
+  - [spring-webflux](https://github.com/starryeye/spring-webflux)
     - reactive stack 기반의 다양한 기술들 
     - Netty, reactor, Spring Webflux, Data, Cloud 등
-  - [practical-reactor-mirror (진행 중)](https://github.com/starryeye/practical-reactor-mirror)
+  - [practical-reactor-mirror](https://github.com/starryeye/practical-reactor-mirror)
     - project reactor, Mono & Flux 연산자 연습문제 풀기
   - [redis](https://github.com/starryeye/redis)
     - redis 다루기
@@ -50,10 +50,6 @@
     - mordern c++ 
   
 - 실습 및 프로젝트 기반 study
-  - [architecture](https://github.com/starryeye/architecture)
-    - layered, hexagonal architecture 공부
-      - layered/splitpay : 1/N 정산 서비스, 빡센 test code, data jpa
-      - hexagonal/pay : 계좌 서비스, archunit
   - [hellogram](https://github.com/starryeye/hellogram)
     - Reactive stack 으로 구현하는 모의 instagram, 각 서비스간 연동하여 MSA
       - article : clean architecture(multimodule), webflux, data mongodb reactive, cloud circuitbreaker, cloud stream with kafka, testcontainer, reactor test
@@ -80,3 +76,5 @@
       - JPA, redis
   - [msa-ddd](https://github.com/starryeye/msa-ddd)
     - 주문, 선물 서비스를 구현하며 msa, ddd 에 대해 다룸
+  - [refactoring](https://github.com/starryeye/refactoring)
+    - 리팩토링 연습
