@@ -1,6 +1,6 @@
 # introduce
   
-## 공부하여 습득한 기술
+## 보유 기술
 - Java 17
 - Spring Framework Core
 - Spring Boot
@@ -50,6 +50,10 @@
     - mordern c++ 
   
 - 실습 및 프로젝트 기반 study
+  - [architecture](https://github.com/starryeye/architecture)
+    - layered, hexagonal architecture 공부
+      - layered/splitpay : 1/N 정산 서비스, 빡센 test code, data jpa
+      - hexagonal/pay : 계좌 서비스, archunit 
   - [hellogram](https://github.com/starryeye/hellogram)
     - Reactive stack 으로 구현하는 모의 instagram, 각 서비스간 연동하여 MSA
       - article : clean architecture(multimodule), webflux, data mongodb reactive, cloud circuitbreaker, cloud stream with kafka, testcontainer, reactor test
