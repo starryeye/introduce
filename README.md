@@ -52,7 +52,8 @@
 - 실습 및 프로젝트 기반 study
   - [architecture](https://github.com/starryeye/architecture)
     - layered, hexagonal architecture 공부
-      - layered/splitpay : 1/N 정산 서비스, 빡센 test code, data jpa
+      - layered/splitpay : 정산 서비스, 빡센 test code, data jpa
+      - layered/stockranker : 랭킹 서비스, 빡센 test code, webflux, data r2dbc
       - hexagonal/pay : 계좌 서비스, archunit 
   - [hellogram](https://github.com/starryeye/hellogram)
     - Reactive stack 으로 구현하는 모의 instagram, 각 서비스간 연동하여 MSA
