@@ -45,12 +45,14 @@
     - redis 다루기
   - [kafka](https://github.com/starryeye/kafka)
     - kafka 다루기
+  - [mysql-performance-optimization](https://github.com/starryeye/mysql-performance-optimization)
+    - SQL 쿼리 최적화 해보기
   - [resilience4j](https://github.com/starryeye/resilience4j)
     - spring with retry, circuit breaker 다루기
   - [spring-guide](https://github.com/starryeye/spring-guide)
     - spring.io 에 소개된 간단한 가이드 따라해보기
   - [CppStudy](https://github.com/starryeye/CppStudy)
-    - mordern c++ 
+    - mordern c++
   
 - 실습 및 프로젝트 기반 study
   - [architecture](https://github.com/starryeye/architecture)
