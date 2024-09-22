@@ -5,6 +5,7 @@
 - Spring Framework Core
 - Spring Boot
 - Spring Data
+- Spring Security
 - Spring Cloud (Gateway, CircuitBreaker, Stream)
 - Servlet stack
   - Spring Web, JPA
@@ -36,6 +37,8 @@
   - [spring-webflux](https://github.com/starryeye/spring-webflux)
     - reactive stack 기반의 다양한 기술들 
     - Netty, reactor, Spring Webflux, Data, Cloud 등
+  - [spring-security(진행 중)](https://github.com/starryeye/spring-security)
+    - spring security 다루기
   - [practical-reactor-mirror](https://github.com/starryeye/practical-reactor-mirror)
     - project reactor, Mono & Flux 연산자 연습문제 풀기
   - [redis](https://github.com/starryeye/redis)
