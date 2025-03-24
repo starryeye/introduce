@@ -38,7 +38,7 @@
     - reactive stack 기반의 다양한 기술들 
     - Netty, reactor, Spring Webflux, Data, Cloud 등
   - [spring-security(진행 중)](https://github.com/starryeye/spring-security)
-    - spring security 다루기
+    - spring security 다루기 (OAuth 2.0 / OIDC)
   - [practical-reactor-mirror](https://github.com/starryeye/practical-reactor-mirror)
     - project reactor, Mono & Flux 연산자 연습문제 풀기
   - [redis](https://github.com/starryeye/redis)
