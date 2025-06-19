@@ -1,24 +1,4 @@
-# introduce
-  
-## 보유 기술
-- Java 17
-- Spring Framework Core
-- Spring Boot
-- Spring Data
-- Spring Security
-- Spring Cloud (Gateway, CircuitBreaker, Stream)
-- Servlet stack
-  - Spring Web, JPA
-- Reactive stack
-  - Reactive Streams, Reactor, Netty
-  - Spring Webflux, R2dbc
-- MySQL, Redis, Kafka
-- Layered, Clean Architecture(hexagonal)
-- TDD, BDD, Mockito, JUnit5, AssertJ, Reactor test, testcontainer
-- Spring REST Docs
-
-  
-## repository
+# repository introduce
   
 - 이론 및 Best practice study
   - [leetcode](https://github.com/starryeye/leetcode)
