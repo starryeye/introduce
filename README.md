@@ -1,3 +1,21 @@
+# practice
+- Java 17
+- Spring framework core
+- Spring boot
+- Spring data
+- Spring cloud (gateway, circuitbreaker, stream)
+- Spring security (OAuth 2.0, OIDC)
+- Spring servlet stack
+  - Spring Web MVC, JPA
+- Spring reactive stack
+  - Reactive streams, Reactor, Netty
+  - Spring Webflux, R2dbc
+- MySQL, Redis, Kafka
+- Layered, Clean architecture(hexagonal)
+- TDD, BDD, Mockito, JUnit5, AssertJ, Reactor test, testcontainer, mockwebserver
+- Spring REST Docs 
+
+
 # repository introduce
   
 - 이론 및 Best practice study
