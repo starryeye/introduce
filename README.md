@@ -1,6 +1,8 @@
 # repository introduce
   
 - 이론 및 Best practice study
+  - [ai-agent](https://github.com/starryeye/ai-agent)
+    - LangGraph, LangChain practice
   - [leetcode](https://github.com/starryeye/leetcode)
     - argorithm, sql problem
   - [java](https://github.com/starryeye/java)
@@ -10,7 +12,7 @@
   - [spring-webflux](https://github.com/starryeye/spring-webflux)
     - reactive stack 기반의 Spring practice
     - Netty, reactor, Spring Webflux, Data, Cloud 등
-  - [spring-security(진행 중)](https://github.com/starryeye/spring-security)
+  - [spring-security](https://github.com/starryeye/spring-security)
     - spring security practice (OAuth 2.0 / OIDC)
   - [practical-reactor-mirror](https://github.com/starryeye/practical-reactor-mirror)
     - project reactor, Mono & Flux operation practice
