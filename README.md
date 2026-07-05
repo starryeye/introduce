@@ -7,6 +7,8 @@
     - argorithm, sql problem
   - [java](https://github.com/starryeye/java)
     - Java 8, Java io, nio, aio, reactor, proactor 등
+  - [kotlin](https://github.com/starryeye/kotlin)
+    - kotlin, coroutine
   - [SpringStudyProject](https://github.com/starryeye/SpringStudyProject)
     - Spring core 및 servlet stack 기반의 Spring, JPA practice
   - [spring-webflux](https://github.com/starryeye/spring-webflux)
@@ -30,6 +32,8 @@
     - mordern c++
   
 - 실습 및 프로젝트 기반 study
+  - [aws-ai-dlc](https://github.com/starryeye/aws-ai-dlc)
+    - ai-dlc 방법론 기반 개발 실습
   - [architecture](https://github.com/starryeye/architecture)
     - layered, hexagonal architecture 공부
       - layered/splitpay : 정산 서비스, test code, data jpa
