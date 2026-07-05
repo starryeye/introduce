@@ -34,11 +34,15 @@
 - 실습 및 프로젝트 기반 study
   - [aws-ai-dlc](https://github.com/starryeye/aws-ai-dlc)
     - ai-dlc 방법론 기반 개발 실습
+  - [kubernetes](https://github.com/starryeye/kubernetes)
+    - k8s 실습
+  - [docker](https://github.com/starryeye/docker)
+    - docker 실습
   - [architecture](https://github.com/starryeye/architecture)
     - layered, hexagonal architecture 공부
       - layered/splitpay : 정산 서비스, test code, data jpa
       - layered/stockranker : 랭킹 서비스, test code, webflux, data r2dbc
-      - hexagonal/pay : 계좌 서비스, archunit 
+      - hexagonal/pay : 계좌 서비스, archunit
   - [hellogram](https://github.com/starryeye/hellogram)
     - Reactive stack 으로 구현하는 모의 api server, 각 서비스간 연동하여 MSA
       - article : clean architecture(multimodule), webflux, data mongodb reactive, cloud circuitbreaker, cloud stream with kafka, testcontainer, reactor test
@@ -67,3 +71,5 @@
     - 주문, 선물 서비스를 구현하며 msa, ddd 에 대해 다룸
   - [refactoring](https://github.com/starryeye/refactoring)
     - 리팩토링 연습
+  - [distributed-transaction](https://github.com/starryeye/distributed-transaction)
+    - 간단한 주문시스템을 통해 분산 트랜잭션을 알아본다. 
